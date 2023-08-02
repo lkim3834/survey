@@ -1,0 +1,17 @@
+:host {
+  display: block;
+  .send-button-container {
+    .send-button{
+      cursor: pointer;
+      background: #68C259;
+      border-radius: 25px;
+      text-align: center;
+      font-family: 'Nunito';
+      border:none;
+      color:white;
+      display:inline-block;
+      padding: 6px 35px;
+      font-size: 18px;
+    }
+  }
+}
