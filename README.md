@@ -1,4 +1,4 @@
-``# **Edit Survey Pages**
+### **Edit Survey Pages**
 Edit survey collects various types of information such as name, email, multiple choice questions, and other survey information edited and designed by the user. The edit survey contains 5 pages and each page is a container. The following sections include the description and functionality of each page.
 
 ### **Important Information Regarding URL**🔗
