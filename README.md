@@ -44,4 +44,10 @@ Loads the survey from the firestore using the corresponding surveyID. Surveys ob
    - In the child, the rating() function uses the @Output(), sendProj.
    - In the parent, the addItem() method is used to update the entities.
 
+### preview video
+
+
+
+https://github.com/lkim3834/survey/assets/63019945/5556c4e2-782e-4afe-92ac-b161e9a20c4a
+
 
